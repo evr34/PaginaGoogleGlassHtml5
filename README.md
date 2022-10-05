@@ -1,2 +1,2 @@
 # PaginaGoogleGlassHtml5
- Tarefa do curso de Html5 prof. Guanabara
+ Trabalho realizado durante o curso de HTML5 do Prof. Guanabara
